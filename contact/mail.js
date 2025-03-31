@@ -37,8 +37,8 @@ let server = http.createServer((req, res) => {
                 let transporter = nodemailer.createTransport({
                     service: "gmail",
                     auth: {
-                        user: "hariharan98704@gmail.com",  
-                        pass: "bhcaozpchzjguljr" // Replace with your email password or app-specific password
+                        user: "vatchayavenkat@gmail.com",  
+                        pass: "Atchaya@123" // Replace with your email password or app-specific password
                     }
                 });
 
