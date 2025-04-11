@@ -170,8 +170,8 @@
   .card:nth-child(8) {
     background: url(./assets/project/quiz.png) center center/cover;
   }
-  .card:nth-child(9) {
-    background: url(./assets/project/dino.png) center center/cover;
+  .card:nth-child() {
+    background: url(./assets/project/Screenshot\ 2025-04-11\ 164054.png\ 134238.png) center center/cover;
   }*/
   .card:nth-child(3) {
     background: url(./assets/project/todo.png) center center/cover;
@@ -179,8 +179,8 @@
   .card:nth-child(4) {
     background: url(./assets/project/Screenshot\ 2025-04-07\ 134238.png) center center/cover;
   }
-  .card:nth-child(12) {
-    background: url(./assets/project/calc.png) center center/cover;
+  .card:nth-child(5) {
+    background: url(./assets/project/Screenshot\ 2025-04-11\ 164054.png) center center/cover;
   }
   
   /* Media Queries */
