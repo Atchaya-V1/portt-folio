@@ -182,6 +182,9 @@
   .card:nth-child(5) {
     background: url(./assets/project/Screenshot\ 2025-04-11\ 164054.png) center center/cover;
   }
+  .card:nth-child(6) {
+    background: url(./assets/project/WhatsApp\ Image\ 2025-06-29\ at\ 23.37.19_c8af1686.jpg) center center/cover;
+  }
   
   /* Media Queries */
   @media (max-width: 768px) {
